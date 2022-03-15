@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/adirbuskila.lwc-l0sg2t8i",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve l9h8t1iYUs3NnHsnd64B --open"
+  }
+}
